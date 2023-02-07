@@ -1,6 +1,9 @@
 ﻿using System;
     class Program
-{
+{   
+        // Project Creation Date: February 6, 2023
+        // Project Title: Variables
+        // Project Description: Simple creation, setting, and displaying variables.
        static void Main(string[] args)
        { 
         Console.BackgroundColor = ConsoleColor.Black; // Use to adjust the background color for the text in the console window.
