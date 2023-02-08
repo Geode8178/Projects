@@ -1,0 +1,15 @@
+D:\C# Projects\Value Comparison\Value Comparison\bin\Debug\net6.0\Value Comparison.exe
+D:\C# Projects\Value Comparison\Value Comparison\bin\Debug\net6.0\Value Comparison.deps.json
+D:\C# Projects\Value Comparison\Value Comparison\bin\Debug\net6.0\Value Comparison.runtimeconfig.json
+D:\C# Projects\Value Comparison\Value Comparison\bin\Debug\net6.0\Value Comparison.dll
+D:\C# Projects\Value Comparison\Value Comparison\bin\Debug\net6.0\Value Comparison.pdb
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.csproj.AssemblyReference.cache
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.AssemblyInfoInputs.cache
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.AssemblyInfo.cs
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.csproj.CoreCompileInputs.cache
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.dll
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\refint\Value Comparison.dll
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.pdb
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\Value Comparison.genruntimeconfig.cache
+D:\C# Projects\Value Comparison\Value Comparison\obj\Debug\net6.0\ref\Value Comparison.dll
